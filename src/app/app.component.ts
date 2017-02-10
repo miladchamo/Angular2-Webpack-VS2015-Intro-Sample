@@ -6,5 +6,5 @@ import '../../public/css/styles.css';
     styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-    title: "testing";
+    title = "this is a test property being output from the app-component.ts";
 }
