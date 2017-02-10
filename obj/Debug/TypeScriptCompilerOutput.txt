@@ -1,0 +1,12 @@
+C:\Code\test.app3.angular\src\app\app.component.js
+C:\Code\test.app3.angular\src\app\app.component.js.map
+C:\Code\test.app3.angular\src\app\app.component.spec.js
+C:\Code\test.app3.angular\src\app\app.component.spec.js.map
+C:\Code\test.app3.angular\src\app\app.module.js
+C:\Code\test.app3.angular\src\app\app.module.js.map
+C:\Code\test.app3.angular\src\main.js
+C:\Code\test.app3.angular\src\main.js.map
+C:\Code\test.app3.angular\src\polyfills.js
+C:\Code\test.app3.angular\src\polyfills.js.map
+C:\Code\test.app3.angular\src\vendor.js
+C:\Code\test.app3.angular\src\vendor.js.map
